@@ -1,0 +1,109 @@
+*{
+	text-align: center;
+	max-height: 100%;
+	max-width: 100%;
+	font-family: 'Lato', sans-serif ;
+}
+body {
+    background-color: #000000;
+    background-image: url("../images/SouthAfrica-bg.jpg");
+    background-size: cover;
+    color: yellowgreen;
+
+}
+.jumbotron {
+	background-image: url("../images/South_Africa_Flag13.jpg");
+	color: black;
+	font-family: 'Lato', sans-serif ;
+	border-style: solid 1px;
+    border-color: white;
+    width: 75%;
+    opacity: .80;
+}
+#startGame {
+	font-size: 30px;
+	text-transform: uppercase;
+    letter-spacing: 2.5px;
+    opacity: .85; 
+    color: black;
+}
+#startGame:hover {
+	font-size: 31px;
+	background-color: yellow;
+	color: black;
+	opacity: .75; 
+}
+#question {
+    font-size: 26px;
+    color: black;
+    background-color: yellowgreen;
+}
+
+#timer {
+	font-size: 26px;
+	color: yellow;
+	font-variant-caps: small-caps;
+}
+.answerButton {
+	font-size: 20px;
+    background-color: yellowgreen;
+    color: black;
+}
+
+.answerButton:hover{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+#answerPage
+.rightWrong {
+    font-size: 20px;
+    background-color: yellowgreen;
+    color: black;
+    opacity: .9;
+}
+.correctAnswerIs{
+    font-size: 20px;
+    background-color: black;
+    color: yellowgreen;
+    opacity: .8;
+}
+
+
+.images {
+	border-style: double;
+	border-color: red;
+
+}
+.continueButton {
+    font-size: 30px;
+    color: yellow;
+}
+
+.continueButton:hover {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+#finalPage{
+    font-size: 20px;
+    background-color: yellowgreen;
+    color: black;
+    opacity: .9;
+}
+
+.endTitle
+#endSubText
+#rightQuestions
+#wrongQuestions
+
+#startOver {
+    font-size: 28px;
+    color: yellow;
+}
+
+#startOver:hover {
+    font-size: 30px;
+    font-weight: bold;
+}
+
