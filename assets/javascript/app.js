@@ -1,4 +1,3 @@
-//game counters
 var counter = 0;
 var correctCounter = 0;
 var wrongCounter = 0;
@@ -177,7 +176,7 @@ var restartButton = {
     timer.stop();
     timer.reset();
     createQuestion();
-    
+
   })
 };
 
